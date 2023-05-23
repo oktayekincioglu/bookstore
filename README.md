@@ -7,7 +7,7 @@ Junit 5
 
 
 # To run the application:
-mvn package
+mvn package \
 java -jar target/bookstore-0.0.1-SNAPSHOT.jar
 
 
